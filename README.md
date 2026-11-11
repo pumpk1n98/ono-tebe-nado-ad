@@ -1,1 +1,5 @@
-https://github.com/pumpk1n98/ono-tebe-nado-ad
+# Оно тебе надо
+
+Учебный проект: адаптивная главная страница аукциона вещей, в которые никто не верил.
+
+Репозиторий проекта: https://github.com/pumpk1n98/ono-tebe-nado-ad

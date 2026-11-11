@@ -45,8 +45,8 @@ body {
 
 .header__logo {
   display: block;
-  width: 148px;
-  height: 114px;
+  width: 136px;
+  height: auto;
 }
 
 .header__logo-image {
